@@ -1,0 +1,16 @@
+#fundo{
+    background-image: url(fundo.png);
+    background-position: center;
+    background-size: cover;
+    }
+
+#canvas1{
+    background-color: rgb(241, 239, 239);
+    width: 800px;
+    height: 400px;
+}
+
+label{
+   color: cyan;
+   font-size: 28.84px
+}
